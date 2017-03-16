@@ -68,7 +68,7 @@ hr{
   border-color: red;
   }
 
-  @media(max-width: 1080px){
+  @media(max-width: 768px){
 
 
 .title{
@@ -78,7 +78,7 @@ hr{
 }
 
 li {
-  font-size: 2em;
+  font-size: 2.5em;
 }
 
 }
