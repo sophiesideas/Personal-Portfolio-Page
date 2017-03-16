@@ -68,18 +68,19 @@ hr{
   border-color: red;
   }
 
-  @media(max-width: 768px){
+  @media(max-width: 1080px){
 
-
+h2{
+font-size: 2em;
+	  }
+	
 .title{
   font-size: 50px;
   color: white;
   font-style: bold;
 }
 	  
-h3{
-  font-size:3em;
-}
+
 	  
 li {
   font-size: 3em;
