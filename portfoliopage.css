@@ -193,7 +193,9 @@ body {
   margin-bottom: 50px;
   display: block;
   margin-right: 200px;
-
+  border: solid;
+  border-width: 4px;
+  border-color: black;
 }
 
 .mainpart{
