@@ -45,7 +45,9 @@ body{
 	margin-top: 10px;
 }
 
-
+.navigation-item{
+       margin-top: 5px;	
+}
 
 li {
   font-size: 1.5em;
