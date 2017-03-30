@@ -1,0 +1,70 @@
+#logo {
+  margin-top: -10px;
+  margin-left: 50px;
+}
+.modal-header, h4, .close {
+      background-color: #333;
+      color: #ffffff !important;
+      text-align: center;
+      font-size: 30px;
+  }
+.modal-header, .modal-body {
+      padding: 40px 50px;
+  }
+.nav-tabs li a {
+      color: #777;
+  }
+  
+.navbar {
+      font-family: Montserrat, sans-serif;
+      margin-bottom: 0;
+      background-color: #000000 !important;
+      border: 0;
+      font-size: 11px !important;
+      letter-spacing: 4px;
+      opacity: 1;
+      color: #ffffff;
+  }
+.navbar-nav li { 
+      color: #ffffff !important;
+  }
+.navbar-nav li a:hover {
+      color: #fffffff !important;
+  }
+.navbar-nav li.active a {
+      color: #ffffff !important;
+      background-color: #000000 !important;
+  }
+.navbar-default .navbar-toggle {
+      border-color: transparent;
+  }
+.open .dropdown-toggle {
+      color: #fff;
+      background-color: #000000 !important;
+  }
+.dropdown-menu li a {
+      color: #000000 !important;
+      background-color: #0000000 !important;
+  }
+.dropdown-menu li a:hover {
+      background-color:  #000000 !important;
+      }
+        .carousel-inner img {
+ width: 100%; 
+}
+
+  .item {
+    height: 590px
+}
+#waarborg {
+  height:100px;
+  width: 100px;
+}      
+#mogelijkheden {
+    height:100px;
+    width: 250px;
+}
+#social {
+    height:100px;
+    width: 150px;
+}
