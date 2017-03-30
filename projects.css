@@ -107,6 +107,16 @@ body {
   margin-left: 10px;
 }
 
+.marketing .col-lg-2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.marketing .col-lg-2 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
 
 
 
